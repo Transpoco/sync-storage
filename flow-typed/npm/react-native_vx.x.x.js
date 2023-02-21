@@ -26,7 +26,7 @@ declare module 'react-native/cli' {
   declare module.exports: any;
 }
 
-declare module '@react-native-community/async-storage' {
+declare module '@react-native-async-storage/async-storage' {
   declare module.exports: any; 
 }
 

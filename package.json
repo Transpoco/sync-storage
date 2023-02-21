@@ -83,7 +83,7 @@
     "typescript": "^3.7.3"
   },
   "dependencies": {
-    "@react-native-community/async-storage": "*"
+    "@react-native-async-storage/async-storage": "*"
   },
   "prettier": {
     "trailingComma": "all",
